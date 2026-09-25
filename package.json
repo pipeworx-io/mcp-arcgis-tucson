@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-tucson",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "City of Tucson GIS — Tucson, Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-5ee556229ad4b8aa9d326af39fe50b48e9a4c906745abcd2c44f1fd0623662b2",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-cc740ec714d28f4c7a58f3685567a4286b2e38bf3123b364b75be02c47e02f7d",
+    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
   }
 }
